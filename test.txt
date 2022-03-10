@@ -1,0 +1,5 @@
+hello world!
+branchを作成。feature/03091で記載。
+fast forwardじゃないコミットを試す。
+feature/03092で記載。
+wazato type miss ←わざとタイプミス
